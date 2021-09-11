@@ -6,3 +6,5 @@ i am chnaging in dev
 
 i am changing in architect master
 
+changes from feature 3
+
