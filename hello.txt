@@ -4,5 +4,7 @@ hi i am architect
 i am chnaging in dev
  machine
 
-i am changing in architect master
+i am changing in architect  .merge_file_a06860
+iam changing from feature 2 
+changes from feature 3 .merge_file_a06780
 
